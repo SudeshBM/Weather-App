@@ -1,7 +1,3 @@
-Here's a GitHub README template based on the information you provided:
-
----
-
 # 🌤️ Weather App using Material UI and Weather API
 
 This project is a **Weather App** built with **React** and **Material UI**, designed to provide real-time weather updates. The app features a **search box** for input, an **info box** to display weather data, and dynamic features such as background changes based on weather conditions. 
